@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&display=swap');
+
+body {
+
+    font-family: "Ancizar Sans", sans-serif;
+
+  background: #87d3ff;
+background: linear-gradient(180deg, rgba(135, 211, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 0 20px;
+  }
+
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+  
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+
+h3{
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+    .Haaland{
+        max-width: 600px;
+        display: block;
+        margin: auto;   
+}
+
+.palmeiras{
+    display: block;
+    margin: auto;
+    max-width: 600px;
+}
+
+.city{
+    display: block;
+    margin: auto;
+    width: 400px;
+
+}
+
+.cabuloso{
+    display: block;
+    margin: auto;
+    width: 300px;
+
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+ 
+}
+
+ol {
+    text-align: center;
+    font-size: 25px;
+    padding: 0;
+}
+
+
+
+.aluno {
+  text-align: center;
+  padding: 20px;
+
+}
+
+.avatar {
+  width: 250px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+  
+}
+
+.link a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #030d91;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.link a:hover {
+  background-color: #2c00cc;
+}
+
+.meu-time {
+  background-color: #e3f2fd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px auto;
+  width: 800px;
+ 
+}
+
+.meu-time h2  {
+  color: #0d47a1;
+  margin-bottom: 10px;
+}
+
+.meu-time h3 {
+  color: #0d47a1;
+  margin-bottom: 10px;
+}
+
+
+.meu-time ul {
+  list-style: none;
+  padding: 0;
+}
+
+.meu-time li {
+  background: #bbdefb;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  color: #0d47a1;
+ 
+}
+
+.escalação {
+  margin-top: 20px;
+}
+
+.titulos {
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #0d47a1;
+  color: white;
+  font-size: 35px;
+
+}
+
+footer a {
+  color: #ffffff;
+
+}
